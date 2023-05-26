@@ -1,8 +1,6 @@
 untuk aplikasi toko online saya ada dua halaman yang pertama halaman pelanggan dan yang kedua adalah halaman admin
 untuk halaman pelanggan terdiri dari home keranjang about login daftar dan checkout
 untuk halaman admin ketik d google yaitu http://localhost:8080/toko%20online/admin sebelum ke halaman admin kita melakukan login terlebih dahulu username nya adalah admin dan password nya jga sama admin yang secara otomatis terisi,selanjutnya di halaman admin terdiri dari home produk kategori pembelian laporan pelanggan dan logout
-Untuk tabel kategori tidak termasuk crud hanya untuk menambahkan data ke produk
+Untuk tabel kategori tidak ada button tambah edit delete dikarenakan saya sudah membuat masih ada yang error sehingga untuk penambahan data lewat phpmyadmin
 Untuk tabel Ongkir hanya penambahan saja di phpmyadmin dan checkout tersebut masuk ke dalam pembayaran
-
-
 MOHON MAAF UNTUK KAK PELITA UNTUK PEMBUATAN APLIKASI SAYA KURANG LENGKAP DAN MASIH BANYAK KESALAHAN
